@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kumar Ashwani
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning cloud and java new component.
+- 💞️ I’m looking to collaborate on coding.
+- 📫 Reach me on kr.ashwani1@gmail.com
